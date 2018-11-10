@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,+CACA,sBACA,WACA,YAAc,CACf","file":"static/css/main.a0c6bbdf.css","sourcesContent":[".login {\n  background-image: url(\"./img/bg-login.jpg\");\n  background-size: cover;\n  width: 100%;\n  height: 100vh;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
